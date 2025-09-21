@@ -22,5 +22,5 @@ The database includes the following tables:
 ## ▶️ Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/university-database.git
+   git clone https://github.com/Ydv-Suman/university-database.git
    cd university-database
